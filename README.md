@@ -6,7 +6,7 @@
 ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green.svg?logo=pycharm)
 ![Kaggle](https://img.shields.io/badge/Datasets-Kaggle-blue.svg?logo=kaggle)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![GitHub](https://img.shields.io/badge/GitHub-Farhakousar1601-black)
+
 Welcome to the laboratory experiments for **Data Science and Its Applications (Sub Code: 21AD62)**. This repository provides practical exercises across five modules, covering essential aspects of data science.
 
 ## 📚 Modules Overview

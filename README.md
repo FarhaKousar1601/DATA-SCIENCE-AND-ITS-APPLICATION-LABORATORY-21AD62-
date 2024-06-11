@@ -1,2 +1,66 @@
-# DATA-SCIENCE-AND-ITS-APPLICATION-LABORATORY-21AD62-
-Hands-on labs covering data science concepts using Python/R. Modules include setup of IDEs, data visualization, data cleaning, supervised and unsupervised learning, and a mini project on web scraping. Datasets from Kaggle and other sources are utilized for practical learning and model training.
+# Data Science and Its Applications (21AD62) - Laboratory Experiments
+
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg?logo=python)
+![R](https://img.shields.io/badge/R-4.x-blue.svg?logo=R)
+![Visual Studio Code](https://img.shields.io/badge/IDE-VS%20Code-blue.svg?logo=visual-studio-code)
+![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green.svg?logo=pycharm)
+![Kaggle](https://img.shields.io/badge/Datasets-Kaggle-blue.svg?logo=kaggle)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+Welcome to the laboratory experiments for **Data Science and Its Applications (Sub Code: 21AD62)**. This repository provides practical exercises across five modules, covering essential aspects of data science.
+
+## 📚 Modules Overview
+
+### Module 1: Introduction and Basic Data Handling
+1. **Setup**: Install Python/R and configure IDEs (VS Code, PyCharm).
+2. **Programming**: Write and execute basic programs in Python/R.
+3. **Visualization**: Plot a line chart showing study hours vs. exam scores.
+4. **Histogram**: Visualize the frequency distribution of 'mpg' from `mtcars.csv`.
+
+### Module 2: Data Cleaning and Preparation
+1. **Books Dataset**: 
+   - Import and clean `BL-Flickr-Images-Book.csv`.
+   - Drop irrelevant columns, reindex, and tidy fields.
+
+### Module 3: Supervised Learning
+1. **Logistic Regression**: Train a regularized logistic regression on the Iris dataset.
+2. **SVM Classifier**: Experiment with SVM kernels and hyperparameters to find the best accuracy.
+
+### Module 4: Unsupervised Learning
+1. **Decision Trees**: Implement ID3 algorithm on a given dataset.
+2. **Clustering**: Apply K-means, Single-link, and Complete-link hierarchical clustering on `spiral.txt`.
+
+### Module 5: Mini Project
+1. **Web Scraping**: Develop a simple web scraping tool for social media data.
+
+## 📊 Datasets Used
+- [Mtcars Dataset](https://www.kaggle.com/ruiromanini/mtcars)
+- [Books Dataset](https://www.kaggle.com/adeyoyintemidayo/publication-of-books)
+- [Iris Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/)
+- [Spiral Dataset](https://bit.ly/2Lm75Ly)
+
+## 🚀 Getting Started
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/21AD62-DataScience-Labs.git
+   cd 21AD62-DataScience-Labs
+   ```
+2. **Install required packages**:
+   - For Python: `pip install -r requirements.txt`
+   - For R: Follow instructions in the `R` directory.
+
+## 🔧 Technologies Used
+- **Languages**: Python, R
+- **IDEs**: Visual Studio Code, PyCharm
+- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-Learn
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📬 Contact
+For any questions, please contact the course instructor or visit the [discussion board](https://github.com/yourusername/21AD62-DataScience-Labs/discussions).
+
+---
+
+Feel free to customize and add more sections as per your needs.

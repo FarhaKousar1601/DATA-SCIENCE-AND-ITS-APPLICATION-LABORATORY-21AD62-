@@ -47,8 +47,13 @@ Welcome to the laboratory experiments for **Data Science and Its Applications (S
    cd 21AD62-DataScience-Labs
    ```
 2. **Install required packages**:
-   - For Python: `pip install -r requirements.txt`
-   - For R: Follow instructions in the `R` directory.
+   - For Python: `pip install matplotlib`
+                 `pip install pandas`
+                 `pip install numpy`
+                 `pip install scikit-learn`
+                 `pip install pydotplus`
+                  `pip installBeautifulSoup`   
+ 
 
 ## 🔧 Technologies Used
 - **Languages**: Python, R
@@ -59,8 +64,21 @@ Welcome to the laboratory experiments for **Data Science and Its Applications (S
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
-For any questions, please contact the course instructor or visit the [discussion board](https://github.com/yourusername/21AD62-DataScience-Labs/discussions).
+For any questions, please contact the course instructor or visit the [discussion board](https://github.com/FarhaKousar1601/DATA-SCIENCE-AND-ITS-APPLICATION-LABORATORY-21AD62-/discussions)).
 
----
+## How to Connect 🚀
+To connect with me and stay updated, follow these steps:
 
-Feel free to customize and add more sections as per your needs.
+1. Visit my profile link: [Farha Kousar](https://farhakousar1601.bio.link)
+2. Click on the "Follow" button to get notifications about my latest updates.
+3. Feel free to explore my projects, articles, and other content on my profile.
+
+## Stay in Touch 📞
+Let's stay connected! Don't hesitate to reach out if you have any questions, collaboration ideas, or just want to connect and discuss technology. You can reach me via:
+
+- Email: (mailto:farhakousar576@gmail.com)
+- LinkedIn: [Farha Kousar](https://www.linkedin.com/in/farhakousar-16/)
+- Twitter: [@FarhaKousar](https://twitter.com/FarhaKousar16)
+- GitHub: [FarhaKousar1601](https://github.com/FarhaKousar1601)
+
+Looking forward to connecting with you! 🌐

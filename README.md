@@ -55,7 +55,7 @@ Welcome to the laboratory experiments for **Data Science and Its Applications (S
  
 
 ## 🔧 Technologies Used
-- **Languages**: Python, R
+- **Languages**: Python
 - **IDEs**: Visual Studio Code, PyCharm
 - **Libraries**: Pandas, NumPy, Matplotlib, Scikit-Learn
 
@@ -63,7 +63,7 @@ Welcome to the laboratory experiments for **Data Science and Its Applications (S
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
-For any questions, please contact the course instructor or visit the [discussion board](https://github.com/FarhaKousar1601/DATA-SCIENCE-AND-ITS-APPLICATION-LABORATORY-21AD62-/discussions)).
+For any questions, please contact the course instructor or visit the [discussion board](https://github.com/FarhaKousar1601/DATA-SCIENCE-AND-ITS-APPLICATION-LABORATORY-21AD62-/discussions).
 
 ## 🚀 How to Connect 
 To connect with me and stay updated, follow these steps:

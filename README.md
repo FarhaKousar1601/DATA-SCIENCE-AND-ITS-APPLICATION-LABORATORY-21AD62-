@@ -1,7 +1,6 @@
 # Data Science and Its Applications (21AD62) - Laboratory Experiments
 ![Sub Code: 21AD62](https://img.shields.io/badge/Sub%20Code-21AD62-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg?logo=python)
-![R](https://img.shields.io/badge/R-4.x-blue.svg?logo=R)
 ![Visual Studio Code](https://img.shields.io/badge/IDE-VS%20Code-blue.svg?logo=visual-studio-code)
 ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green.svg?logo=pycharm)
 ![Kaggle](https://img.shields.io/badge/Datasets-Kaggle-blue.svg?logo=kaggle)
@@ -52,7 +51,7 @@ Welcome to the laboratory experiments for **Data Science and Its Applications (S
                  `pip install numpy`
                  `pip install scikit-learn`
                  `pip install pydotplus`
-                  `pip installBeautifulSoup`   
+                 `pip installBeautifulSoup`   
  
 
 ## 🔧 Technologies Used
@@ -66,19 +65,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact
 For any questions, please contact the course instructor or visit the [discussion board](https://github.com/FarhaKousar1601/DATA-SCIENCE-AND-ITS-APPLICATION-LABORATORY-21AD62-/discussions)).
 
-## How to Connect 🚀
+## 🚀 How to Connect 
 To connect with me and stay updated, follow these steps:
 
 1. Visit my profile link: [Farha Kousar](https://farhakousar1601.bio.link)
 2. Click on the "Follow" button to get notifications about my latest updates.
 3. Feel free to explore my projects, articles, and other content on my profile.
 
-## Stay in Touch 📞
+## 📞 Stay in Touch 
 Let's stay connected! Don't hesitate to reach out if you have any questions, collaboration ideas, or just want to connect and discuss technology. You can reach me via:
 
-- Email: (mailto:farhakousar576@gmail.com)
+- Email: [Mail](farhakousar576@gmail.com)
 - LinkedIn: [Farha Kousar](https://www.linkedin.com/in/farhakousar-16/)
-- Twitter: [@FarhaKousar](https://twitter.com/FarhaKousar16)
+- Twitter: [X](https://twitter.com/FarhaKousar16)
 - GitHub: [FarhaKousar1601](https://github.com/FarhaKousar1601)
 
-Looking forward to connecting with you! 🌐
+ 🌐Looking forward to connecting with you! 

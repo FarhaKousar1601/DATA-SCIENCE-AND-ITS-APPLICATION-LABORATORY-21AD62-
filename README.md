@@ -65,19 +65,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact
 For any questions, please contact the course instructor or visit the [discussion board](https://github.com/FarhaKousar1601/DATA-SCIENCE-AND-ITS-APPLICATION-LABORATORY-21AD62-/discussions).
 
-## 🚀 How to Connect 
-To connect with me and stay updated, follow these steps:
 
-1. Visit my profile link: [Farha Kousar](https://farhakousar1601.bio.link)
-2. Click on the "Follow" button to get notifications about my latest updates.
-3. Feel free to explore my projects, articles, and other content on my profile.
-
-## 📞 Stay in Touch 
-Let's stay connected! Don't hesitate to reach out if you have any questions, collaboration ideas, or just want to connect and discuss technology. You can reach me via:
 
 - Email: [Mail](farhakousar576@gmail.com)
 - LinkedIn: [Farha Kousar](https://www.linkedin.com/in/farhakousar-16/)
-- Twitter: [X](https://twitter.com/FarhaKousar16)
 - GitHub: [FarhaKousar1601](https://github.com/FarhaKousar1601)
 
  🌐Looking forward to connecting with you! 
